@@ -1,0 +1,107 @@
+* {
+	margin: 0;
+}
+
+/*nav*/
+
+.navbar {
+	width: 70%;
+	margin: 0 auto;
+	background-color: lightblue;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+}
+
+.navbar ul li{
+	display: inline;
+	/*border: 2px solid red;*/
+}
+
+.navbar ul li a {
+	text-decoration: none;
+}
+
+.navbar ul li a:hover {
+	background-color: blue;
+}
+
+
+/*title*/
+.title {
+	border: 3px solid purple;
+	background-color: salmon;
+	text-align: center;
+	width: 30%;
+	margin: 20px auto ;
+}
+
+.title:hover {
+	border-radius: 20%;
+	background-color: teal;
+}
+
+.wrapper {
+	/*border: 2px solid red;*/
+	width: 80%;
+	margin: 0 auto;
+}
+
+img {
+	float: left;
+	margin-right: 10px;
+}
+
+
+.image-body {
+ width: 80%;
+ /*border: 2px solid red;*/
+ margin: 120px auto;
+
+}
+
+.images {
+	width: 200px;
+	height: 200px;
+	/*border: 2px solid green;*/
+	 float: left;
+	 margin-left: 15px;
+}
+
+#tirana {
+	background-image: url('img/tirana.jpeg');
+	background-size: 100% 100%;
+}
+
+#skopje{
+	background-image: url('img/skopje.jpg');
+	background-size: 100% 100%;
+}
+
+
+#london{
+	background-image: url('img/london.jpg');
+	background-size: 100% 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
