@@ -1,0 +1,17 @@
+/** {
+	background: black;
+}*/
+
+.David{
+	text-align: center;
+	color: white;
+	font-family: 'Pacifico', cursive;
+}
+
+body {
+	background-image: url("../img/bostonview.jpg");
+}
+
+h1 {
+	text-align: center;
+}
